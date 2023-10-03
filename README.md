@@ -12,7 +12,7 @@
 
 ### ML model
 
-- Data in ```Artefacts/``` is used in the model training and prediction
+- Data in ```Code/Artefacts/``` is used in the model training and prediction
 
 ## Structure
 
