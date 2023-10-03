@@ -1,0 +1,38 @@
+﻿date,home_team,away_team,home_score,away_score,competition,stadium,city,country
+2/4/2023,Wales,Ireland,10,34,2023 Six Nations Championship,Millennium Stadium,Cardiff,Wales
+2/4/2023,England,Scotland,23,29,2023 Six Nations Championship,Twickenham Stadium,London,England
+2/5/2023,Italy,France,24,29,2023 Six Nations Championship,Stadio Olimpico,Rome,Italy
+2/11/2023,Ireland,France,32,19,2023 Six Nations Championship,Aviva Stadium,Dublin,Ireland
+2/11/2023,Scotland,Wales,35,7,2023 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland
+2/12/2023,England,Italy,31,14,2023 Six Nations Championship,Twickenham Stadium,London,England
+2/25/2023,Italy,Ireland,20,34,2023 Six Nations Championship,Stadio Olimpico,Rome,Italy
+2/25/2023,Wales,England,10,20,2023 Six Nations Championship,Millennium Stadium,Cardiff,Wales
+2/26/2023,France,Scotland,32,21,2023 Six Nations Championship,Stade de France,Saint-Denis,France
+3/11/2023,Italy,Wales,17,29,2023 Six Nations Championship,Stadio Olimpico,Rome,Italy
+3/11/2023,England,France,10,53,2023 Six Nations Championship,Twickenham Stadium,London,England
+3/12/2023,Scotland,Ireland,7,22,2023 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland
+3/18/2023,Scotland,Italy,26,14,2023 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland
+3/18/2023,France,Wales,41,28,2023 Six Nations Championship,Stade de France,Saint-Denis,France
+3/18/2023,Ireland,England,29,16,2023 Six Nations Championship,Aviva Stadium,Dublin,Ireland
+7/8/2023,South Africa,Australia,43,12,2023 Rugby Championship,Loftus Versfeld Stadium,Pretoria,South Africa
+7/8/2023,Argentina,New Zealand,12,41,2023 Rugby Championship,Estadio Malvinas Argentinas,Mendoza,Argentina
+7/15/2023,New Zealand,South Africa,35,20,2023 Rugby Championship,Mount Smart Stadium,Auckland,New Zealand
+7/15/2023,Australia,Argentina,31,34,2023 Rugby Championship,CommBank Stadium,Sydney,Australia
+7/29/2023,Australia,New Zealand,7,38,2023 Rugby Championship,Melbourne Cricket Ground,Melbourne,Australia
+7/29/2023,South Africa,Argentina,22,21,2023 Rugby Championship,Ellis Park,Johannesburg,South Africa
+8/5/2023,New Zealand,Australia,23,20,2023 Rugby World Cup warm-up match,Forsyth Barr Stadium,Dunedin,New Zealand
+8/5/2023,Argentina,South Africa,13,24,2023 Rugby World Cup warm-up match,José Amalfitani,Buenos Aires,Argentina
+8/5/2023,Scotland,France,25,21,2023 Rugby World Cup warm-up match,Murrayfield Stadium,Edinburgh,Scotland
+8/5/2023,Wales,England,20,9,2023 Summer Nations Series,Millennium Stadium,Cardiff,Wales
+8/5/2023,Ireland,Italy,33,17,2023 Rugby World Cup warm-up match,Aviva Stadium,Dublin,Ireland
+8/12/2023,England,Wales,19,17,2023 Summer Nations Series,Twickenham,London,England
+8/12/2023,France,Scotland,30,27,2023 Rugby World Cup warm-up match,Stade Geoffroy-Guichard,Saint-Étienne,France
+8/19/2023,Wales,South Africa,16,52,2023 Rugby World Cup warm-up match,Millennium Stadium,Cardiff,Wales
+8/19/2023,Ireland,England,29,10,2023 Rugby World Cup warm-up match,Aviva Stadium,Dublin,Ireland
+8/25/2023,South Africa,New Zealand,35,7,2023 Rugby World Cup warm-up match,Twickenham Stadium,London,England
+8/27/2023,France,Australia,41,17,2023 Rugby World Cup warm-up match,Stade de France,Saint-Denis,France
+9/8/2023,France,New Zealand,27,13,2023 Rugby World Cup,Stade de France,Saint-Denis,France
+9/9/2023,England,Argentina,27,10,2023 Rugby World Cup,Stade Vélodrome,Marseille,France
+9/10/2023,South Africa,Scotland,18,3,2023 Rugby World Cup,Stade Vélodrome,Marseille,France
+9/23/2023,South Africa,Ireland,8,13,2023 Rugby World Cup,Stade de France,Saint-Denis,France
+9/24/2023,Wales,Australia,40,6,2023 Rugby World Cup,Parc Olympique,Lyon,France

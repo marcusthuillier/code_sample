@@ -1,0 +1,20 @@
+dataset:
+  training_path: "Artefacts/train_data.csv"
+  testing_path: "Artefacts/test_data.csv"
+
+  numerical_columns: ["home_score","away_score"]
+  date_column: "date"
+  string_columns: ["home_team","away_team","competition","stadium","city","country"]
+
+  tier_one_teams: ["new zealand", "south_africa", "argentina", "australia", "france", "england", "wales", "scotland", "ireland", "italy"]
+
+  num_features: ["true_home_adv", "world_cup_game", "tier_one_matches", "home_tier_one_matches", "away_tier_one_matches", 
+                 "home_points_scored_avg", "away_points_scored_avg", "home_points_conceded_avg", "away_points_conceded_avg"]
+  
+  non_num_features: ["home_team", "away_team", "country"]
+  
+  target: "home_spread"
+
+  model_path: "Artefacts/model.pkl"
+
+  output_path: "Artefacts/output.csv"
